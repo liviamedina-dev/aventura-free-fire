@@ -1,4 +1,19 @@
 body{
     background-color: brown;
     color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    text-align: center;
+    max-width: 90%;
+}
+button{
+    background-color: bisque;
+    color: blanchedalmond;
+    padding: 20px;
+}}
+.img01{
+    width: 95%;
 }
