@@ -10,10 +10,16 @@ main{
     max-width: 90%;
 }
 button{
-    background-color: bisque;
-    color: blanchedalmond;
+    background-color: black;
+    color: blueviolet;
     padding: 20px;
 }}
 .img01{
     width: 95%;
+}
+ .passo{
+     display: none;
+}
+.passo.ativo{
+    display: block;
 }
